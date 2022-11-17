@@ -1,1 +1,13 @@
-# Hospital-Injection-Mnagement-System
+# Hospital-Injection-Management-system
+MOH( Ministry Of Health) office injection’s distribution process has many records to be stored, this system is developed to address the potential problem of manual recording system.
+The main scope of this project is to save the time and to avoid the unconditional mistakes that can happen as a result of the manual system. There will be predefined way to make the injection’s distribution though the system so that patients (mainly babies) could obtain the reliable, fast and satisfactory service from this system.
+
+## Detailed Problem Statement
+
+### FUNCTION
+
+This solution mainly focused on making the MOH office injection’s distribution relates to babies injections management. There will be a database to record each an every action such as issuing the injections to MOH office, Storing the storage, check the store, informing doctors, midwife, minor staff ,nurses and baby’s parents and issuing babies. Specially the management will be able to easily find which injection gave to which baby and how many injections are available now, how much to order in the next month or week. The main need which focused this project idea is the time of the doctors, nurses, minor staff, midwifes, store operators and patients who use this service and operators who manage this system. From the manual system it is enough for small group of patients but we know that with the increasing number of patients in the MOH the manual system couldn’t handle its own. Because it takes lot of time to data entering and management. Another thing is a they use documents to store data. But some virus (like as covid) can spread in this documents, That is why I selected this topic as a project idea so by doing this it will be a great help for our hospitals in future.
+
+### TIME
+
+Up to now, there is no any computerized system and all the transactions happen in the manual way by writing each an every work statements in papers. There are many disadvantages of that method specially the time waste and then there is a risk of loosing the records and also and sometimes it helps to spread some viruses.. The other thing is there is no need to manually filter the records to find who has issued and who has not. Those time consumed works now just take couple of clicks to make it happen. The good news is this system is not just supposed only babies injection distribution , but we will expand this more like to use other injection process and also a notification system for the patients and store operators to give messages instantly and there will be a method that MOH office can present their requests to the main injection’s store via the system and it will be easy for them to have a list of requests in manually
